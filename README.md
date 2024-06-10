@@ -5,7 +5,7 @@ I use pipenv to create virtual environment
 ```bash
 pipenv --python 3.8.10
 ```
-type the following command and dependency can be installed from pipfile
+type the following command and dependency can be installed from `Pipfile`
 ```bash
 pipenv install
 ```
