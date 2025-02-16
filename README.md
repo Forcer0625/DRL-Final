@@ -1,5 +1,6 @@
 # DRL-Final
 ![](Environment.png)
+
 The IoT sensors possess monitoring and computational functions, interconnected
  through a network. However, data transmission depletes battery energy. To sustain
  sensor operation, charging is typically done using radio frequency (RF) energy.
