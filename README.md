@@ -1,4 +1,4 @@
-# DRL-Final
+# A MARL Approach to IoT Sensor Charging Efficiency via RF Energy Harvesting and Directional Antennas
 ![](Environment.png)
 
 The IoT sensors possess monitoring and computational functions, interconnected
